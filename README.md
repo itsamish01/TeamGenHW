@@ -15,4 +15,5 @@ A Profile layout allows users and employers to see a high-level overview of team
 
 ## Screenshot
 
+<img width="855" alt="Screen Shot 2022-12-20 at 9 49 52 PM" src="https://user-images.githubusercontent.com/114682284/208818608-619723a1-2443-417c-a347-63dfdd9c9b3f.png">
 
