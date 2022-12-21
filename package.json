@@ -1,0 +1,33 @@
+{
+    "name": "team-profile-cli",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/itsamish01/OOP-Challenge"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/itsamish01/OOP-Challenge/issues",
+        "dependencies": {
+            "fs": "^0.0.1-security",
+            "inquirer": "^8.2.0",
+            "node": "^17.4.0",
+            "jest": "27.4.7"
+        }
+    },
+    "homepage": "https://github.com/itsamish01/OOP-Challenge/blob/main/README.md",
+    "dependencies": {
+        "inquirer": "^8.2.5",
+        "inquirer-recursive": "^0.0.7",
+        "jest": "^27.4.7",
+        "node": "^17.4.0"
+    }
+}
